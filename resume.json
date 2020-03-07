@@ -43,49 +43,45 @@
     }],
     "volunteer": [
     {
-        "organization": "AIESEC Hyderabad",
-        "position": "Sales & Marketing in Corperate Relations",
-        "website": "https://www.aiesec.in",
-        "startDate": "2011-08-01",
-        "endDate": "2012-09-30",
+        "organization": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": "2012-01-30",
         "summary": "",
         "highlights": []
     }],
     "education": [
     {
-        "institution": "Technical Universitaet Berlin",
-        "area": "Computer Science",
-        "studyType": "M.Sc.",
-        "startDate": "2016-10-01",
-        "endDate": "2017-12-07",
-        "gpa": "2.2",
+        "institution": "",
+        "area": "",
+        "studyType": "B",
+        "startDate": "1900-01-01",
+        "endDate": "1988-05-01",
+        "gpa": "",
         "courses": []
     }],
     "awards": [
     {
-        "title": "Developer, and, publisher for Windows Phone application",
-        "date": "2012-03-01",
-        "awarder": "Nokia, Microsoft",
-        "summary": "Awarded Nokia Lumia 800 for publishing windows phone application as part of the competition I Unlock Joy"
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
     }],
     "publications": [
     {
-        "name": "Speech Processing, Speech Synthesis & Speech Recognition",
-        "publisher": "Yuva Engineers",
-        "releaseDate": "2010-05-01",
-        "website": "http://www.yuvaengineers.com/speech-processing-speech-synthesis-speech-recognition-s-akarsh-k-avinash",
-        "summary": "Speech recognition is an input system that consists of a microphone and speech recognition software. Speech recognition software is complex. Sounds received via a microphone must be broken down into phonemes; then, a “best guess” algorithm is used to match phonemes and syllables to a database of possible words. To solve speech inconsistencies like accent, volume, pitch, and inflection, male vs. female, sarcasm, and colloquialisms, the software must examine context and word patterns to determine the correct meaning. This requires an enormous database, which in turn requires a computer with very capable processing speed and memory. Speech recognition will greatly change the way information is input. Ease, convenience, and speed are three advantages to using a microphone instead of a keyboard. Speech recognition technology will have an impact on all careers but especially education. Business Education teachers must stay abreast of this technology and be willing to adjust their courses to best prepare students."
+        "name": "",
+        "publisher": "",
+        "releaseDate": "",
+        "website": "",
+        "summary": ""
     }],
     "skills": [
     {
         "name": "Programming and Scripting languages",
         "level": "",
         "keywords": [
-            "HTML",
-            "CSS",
-            "jQuery",
-            "Java",
-            "JavaScript",
+            "Objective-C",
             "Swift"
         ]
     },
@@ -93,75 +89,47 @@
         "name": "Data",
         "level": "",
         "keywords": [
-            "SQL (MySQL, PostgreSQL)",
-            "NoSQL (MongoDB, Redis, Neo4j)"
-        ]
-    },
-    {
-        "name": "Project management methodology",
-        "level": "",
-        "keywords": [
-            "Scrum",
-            "Agile"
+            "SQL (MySQL)"
         ]
     },
     {
         "name": "Version Control System",
         "level": "",
         "keywords": [
-            "Git",
-            "GitHub",
-            "GitLab"
+            "GitHub"
         ]
     },
     {
         "name": "IDE",
         "level": "",
         "keywords": [
-            "Xcode",
-            "Android Studio",
-            "Eclipse"
-        ]
-    },
-    {
-        "name": "Continuous Integration",
-        "level": "",
-        "keywords": [
-            "Jenkins",
-            "GitLab CI",
-            "Docker CI"
+            "Xcode"
         ]
     },
     {
         "name": "Operating System",
         "level": "",
         "keywords": [
-            "macOS",
-            "Linux",
-            "Windows"
+            "macOS"
         ]
     },
     {
         "name": "Software / Applications",
         "level": "",
         "keywords": [
-            "JIRA",
-            "Confluence",
-            "Wiki",
-            "Slack",
-            "MS Office",
-            "DBeaver",
-            "HappyFox",
-            "Adobe Photoshop",
-            "GIMP",
-            "Charles Proxy"
+            "JIRA"
         ]
     }],
     "languages": [
     {
-        "language": "English",
+        "language": "Dutch",
         "fluency": "Native proficiency"
-    }],
+    },
+    {
+        "language": "English",
+        "fluency": "Business level proficiency"
+    }
+    ],
     "interests": [
     {
         "name": "Music",
