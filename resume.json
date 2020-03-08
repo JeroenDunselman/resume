@@ -38,8 +38,16 @@
         "startDate": "2018-09-01",
         "endDate": "",
         "summary": "",
-        "highlights": ["1highlights", "2highlights"
-        ]
+        "highlights": ["1highlights", "2highlights"]
+    },
+    {
+        "company": "Conduent",
+        "position": "Service Agent",
+        "website": "",
+        "startDate": "2017-07-01",
+        "endDate": "2018-08-01",
+        "summary": "",
+        "highlights": ["1highlights", "2highlights"]
     }],
     "volunteer": [
     {
